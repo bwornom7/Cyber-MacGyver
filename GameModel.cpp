@@ -3,3 +3,8 @@
 
 using namespace std;
 
+/*void GameModel::Jump(int bounce)
+{
+
+}
+*/
