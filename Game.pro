@@ -20,3 +20,10 @@ HEADERS  += mainwindow.h \
     GameModel.h
 
 FORMS    += mainwindow.ui
+
+RESOURCES += \
+    images.qrc
+
+OTHER_FILES +=
+
+QMAKE_CXXFLAGS += -std=c++11

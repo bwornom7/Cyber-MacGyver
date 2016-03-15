@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Game pics/Runner/runner1.png</file>
+        <file>Game pics/Runner/runner2.png</file>
+        <file>Game pics/Runner/runner3.png</file>
+        <file>Game pics/Runner/runner4.png</file>
+        <file>Game pics/Runner/runner5.png</file>
+        <file>Game pics/Runner/runner6.png</file>
+        <file>Game pics/Runner/runner7.png</file>
+        <file>Game pics/Runner/runner8.png</file>
+    </qresource>
+</RCC>
